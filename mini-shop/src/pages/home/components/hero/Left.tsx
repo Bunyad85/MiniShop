@@ -7,7 +7,7 @@ const stats = [
 const Left = () => {
     return (
         <div className="flex min-w-0 py-2 lg:py-10.5">
-            <div className="flex min-w-0 flex-1 flex-col justify-center text-center sm:max-w-149 sm:text-left lg:-mt-12">
+            <div className="flex min-w-0 flex-1 flex-col justify-center text-center sm:max-w-149 sm:text-left lg:mt-4">
                 <h1 className="text-[38px] font-black uppercase leading-[0.88] tracking-[-0.05em] text-black sm:max-w-147.5 sm:text-[50px] sm:leading-[0.94] lg:text-[58px] xl:text-[70px]">
                     Find clothes
                     <br />
